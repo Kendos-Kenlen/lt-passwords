@@ -39,7 +39,6 @@ style: |
 ![](pictures/cover.jpg)
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
-
 ## Les mauvaises pratiques
 
 Un mauvais mot de passe, c'est un mot de passe ...
@@ -53,17 +52,23 @@ Un mauvais mot de passe, c'est un mot de passe ...
 
 Et un bon mot de passe alors ? C'est ...
 
-- ...Des chiffres, des lettres, des caractères spéciaux !
+- ...Des chiffres, des lettres, des caractères spéciaux ;
 - ...Au moins 10 caractères ;
 - ...Un mot de passe unique par site ...
 - ...... Et pas avec un seul caractère de différence ;
 - ...Un mot de passe que vous ne connaissez pas ;
 
-## Un peu d'automatisation : les passwords manager
+## Un peu d'automatisation
 
-- Plus besoin de retenir vos mots de passes ;
-- Générez des mot de passes fort ;
-- Une double authentification ;
-- Keypass, LastPass, ...
+Les gestionnaires de mot de passe vous permettent de ...
+
+- ...Ne pas retenir vos mots de passe ;
+- ...Crypter vos identifiants ;
+- ...Générez des mot de passes fort ;
+- ...Une double authentification ;
+- ...Y accéder depuis n'importe où ;
+- ...Keypass, LastPass, ...
+
+### **Mais au final, le problème, c'est pas les mots de passe ?**
 
 ## **Questions ?**
