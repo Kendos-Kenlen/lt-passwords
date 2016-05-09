@@ -69,6 +69,6 @@ Les gestionnaires de mot de passe vous permettent de ...
 - ...Y accéder depuis n'importe où ;
 - ...Keypass, LastPass, ...
 
-### **Mais au final, le problème, c'est pas les mots de passe ?**
+## **Mais au final, le problème, c'est pas les mots de passe ?**
 
 ## **Questions ?**
