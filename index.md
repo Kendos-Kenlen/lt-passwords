@@ -40,23 +40,17 @@ style: |
 <!-- photo by John Carey, fiftyfootshadows.net -->
 
 
-## Shower Key Features
+## Les mauvaises pratiques
 
-1. Built on HTML, CSS and vanilla JavaScript
-2. All modern browsers are supported
-3. Slide themes are separated from engine
-4. Fully keyboard accessible
-5. Printable to PDF
-
-{:.note}
-Shower ['ʃəuə] noun. A person or thing that shows.
-
+- Un mot de passe faible
+- ...Un mot de passe unique
+- ...Un post-it (Ou une feuille de mot de passe #Epitech)
 
 ## Plain Text on Your Slides
 
 Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, *quis nostrud* exercitation ullamco laboris **nisi ut aliquip** ex ea commodo consequat. Duis aute irure <i>dolor</i> in reprehenderit in voluptate velit esse cillum <b>dolore</b> eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in `<culpa>` qui officia deserunt mollit anim id est laborum.
 
-## All Kind of Lists
+## Un bon mot de passe !
 
 1. Simple lists are marked with bullets
 2. Ordered lists begin with a number
@@ -66,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, 
     - Otherwise audience will be bored
 4. Look, seven rows exactly!
 
-## Serious Citations
+## Un peu d'automatisation
 
 <figure markdown="1">
 
@@ -75,26 +69,6 @@ Lorem ipsum dolor sit amet, consectetur [adipisicing](#all-kind-of-lists) elit, 
 <figcaption>Marcus Tullius Cicero</figcaption>
 </figure>
 
-## Code Samples
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <mark><head></mark> <mark class="comment"><!--Comment--></mark>
-        <title>Shower</title>
-        <meta charset="<mark class="important">UTF-8</mark>">
-        <link rel="stylesheet" href="screen.css">
-    <mark></head></mark>
-
-## Even Tables
-
-|  Locavore      | Umami       | Helvetica | Vegan     |
-+----------------|-------------|-----------|-----------+
-|* Fingerstache *| Kale        | Chips     | Keytar    |
-|* Sriracha     *| Gluten-free | Ennui     | Keffiyeh  |
-|* Thundercats  *| Jean        | Shorts    | Biodiesel |
-|* Terry        *| Richardson  | Swag      | Blog      |
-
-It’s good to have information organized.
 
 ## Pictures
 {:.cover #Picture}
