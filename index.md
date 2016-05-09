@@ -61,9 +61,9 @@ Et un bon mot de passe alors ? C'est ...
 
 ## Un peu d'automatisation : les passwords manager
 
-- Plus besoin de retenir vos mots de passes
-- Générez des mot de passes fort
-- Une double authentification
+- Plus besoin de retenir vos mots de passes ;
+- Générez des mot de passes fort ;
+- Une double authentification ;
 - Keypass, LastPass, ...
 
 ## **Questions ?**
