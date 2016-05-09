@@ -1,19 +1,19 @@
 safe: true
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title.html
 relative_permalinks: false
 
 default_theme: ribbon
 default_width: 792
-default_lang: en
+default_lang: fr
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: Gauthier POGAM--LE MONTAGNER
     # url:  http://example.com/
     company:
-        name: Famous Inc.
+        name: Epitech
         # url:  http://example.com/
 
 fork_url: https://github.com/shower/shower
